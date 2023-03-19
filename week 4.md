@@ -11,12 +11,19 @@ Learned how to create a form in wordpress (scrapped)
 Resources/Links
 ---------------------
 [Setting up Wordpress](https://www.linkedin.com/learning/wordpress-5-essential-training/wordpress-an-introduction)
+
 [Re-Learning Markup](https://daringfireball.net/projects/markdown/basics)
+
 [Learning a SIMPLER way for markup](https://www.markdownguide.org/cheat-sheet/)
+
 [Learning some tips for Wordpress](https://wordpress.org/documentation/article/get-started-with-wordpress/)
+
 [Child Themes](https://blog.hubspot.com/website/wordpress-create-child-theme)
+
 [Child Themes](https://www.linkedin.com/learning/wordpress-building-child-themes-3/what-you-need-to-know?autoSkip=true&resume=false)
+
 [Child Themes](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
+
 [Form](https://daext.com/blog/create-a-contact-form-in-wordpress-without-a-plugin/)
 
 Estimated Hours
